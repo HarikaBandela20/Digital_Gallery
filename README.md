@@ -1,9 +1,8 @@
-# Getting Started with Create React App
+#Demo_Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="src/assets/img/1.png" Title="first-page">
 
 ## Available Scripts
-
 
 
 In the project directory, you can run:
