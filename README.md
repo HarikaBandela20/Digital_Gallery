@@ -1,6 +1,6 @@
-#Demo_Portfolio
+# Demo_Portfolio
 
-<img src="src/assets/img/1.png" Title="first-page">
+<img src="src/assets/img/1.jpg" Title="first-page">
 
 ## Available Scripts
 
