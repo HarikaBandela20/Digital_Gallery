@@ -1,4 +1,4 @@
-# Demo_Portfolio
+# Digital_Gallery
 
 ###### _{Developed a demo portfolio using React JS and Bootstrap. This portfolio includes mainly 4 sections home, skills, projects and connect us}_
 
